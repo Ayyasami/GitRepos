@@ -1,0 +1,54 @@
+
+
+        .table-wrap {
+          width: 700px;
+          margin: 50px auto;
+          font-family: arial, sans-serif;
+        }
+
+        h1 {
+          font-size: 18px;
+        }
+
+        table {
+          border-collapse: collapse;
+          width: 100%;
+        }
+
+        table th  {
+          background: #f1f1f1;
+          color: #111;
+        }
+
+        table td, table th {
+          border: 1px solid #f2f2f2;
+          text-align: left;
+          padding: 10px 15px;
+        }
+
+        .zc-btn {
+          display: inline-block;
+          position: relative;
+          margin-right: 6px;
+          padding: 3px 10px;
+          min-width: 50px;
+          border-radius: 5px;
+          -webkit-border-radius: 5px;
+          -moz-border-radius: 5px;
+          -ms-border-radius: 5px;
+          font-size: 14px;
+          line-height: 1.42857143;
+          text-align: center;
+          text-decoration: none;
+          color: #fff;
+          background-color: #4486f8;
+          border: 1px solid #4486f8;
+          cursor: pointer;
+          transition: all 0.2s ease;
+        }
+
+        .zc-btn:hover {
+          background: #3a79e6;
+        }
+
+    
