@@ -22,7 +22,7 @@
         table td, table th {
           border: 1px solid #f2f2f2;
           text-align: left;
-          padding: 10px 15px;
+          padding: 10px 25px;
         }
 
         .zc-btn {
@@ -39,7 +39,7 @@
           line-height: 1.42857143;
           text-align: center;
           text-decoration: none;
-          color: #fff;
+          color: #000;
           background-color: #4486f8;
           border: 1px solid #4486f8;
           cursor: pointer;
