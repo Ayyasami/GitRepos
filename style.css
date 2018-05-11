@@ -6,7 +6,7 @@
         }
 
         h1 {
-          font-size: 18px;
+          font-size: 16px;
         }
 
         table {
@@ -16,7 +16,7 @@
 
         table th  {
           background: #000;
-          color: #111;
+          color: #fff;
         }
 
         table td, table th {
@@ -47,7 +47,7 @@
         }
 
         .zc-btn:hover {
-          background: #3a79e6;
+          background: #f5f;
         }
 
       
