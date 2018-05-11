@@ -1,5 +1,5 @@
 .table-wrap {
-          width: 700px;
+          width: 1000px;
           margin: 50px auto;
           font-family: arial, sans-serif;
         }
@@ -21,7 +21,7 @@
         table td, table th {
           border: 1px solid #f2f2f2;
           text-align: left;
-          padding: 10px 25px;
+          padding: 10px 100px;
         }
 
         .zc-btn {
