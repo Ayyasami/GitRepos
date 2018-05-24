@@ -8,5 +8,3 @@ added new help content
 
 6 line added
 7th added Footer in issue#01 branch
-52
-100
