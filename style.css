@@ -44,7 +44,6 @@
           cursor: pointer;
           transition: all 0.2s ease;
         }
-
         .zc-btn:hover {
-          background: #ccc;
+          background: #fff;
         }

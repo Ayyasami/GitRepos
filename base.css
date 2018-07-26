@@ -1,15 +1,22 @@
+        .wrapper {
+          position: relative;
+          margin-right: 6px;
+          padding: 3px 10px;
+          min-width: 50px;
+        }
+                
         .table-wrap {
           width: 700px;
-          margin: 50px auto;
+          margin: 60px auto;
           font-family: arial, sans-serif;
         }
         h1 {
-          font-size: 14px;
+          font-size: 22px;
+          font-weight:bold;
         }
-
-        table {
+       table {
           border-collapse: collapse;
-          width: 100%;
+          width: 50%;
         }
 
         table th  {
