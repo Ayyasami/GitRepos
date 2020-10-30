@@ -1,10 +1,18 @@
+        .wrapper {
+          position: relative;
+          margin-right: 6px;
+          padding: 3px 10px;
+          min-width: 50px;
+        }
+                
         .table-wrap {
           width: 700px;
           margin: 60px auto;
           font-family: arial, sans-serif;
         }
         h1 {
-          font-size: 20px;
+          font-size: 22px;
+          font-weight:bold;
         }
        table {
           border-collapse: collapse;
